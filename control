@@ -1,0 +1,8 @@
+
+Package: dev.ha1uka.zoooombypsss
+Name: ZoooomBypass
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: hide jailbreak detection 
+Section: Tweaks
